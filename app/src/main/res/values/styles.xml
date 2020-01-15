@@ -8,4 +8,25 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <!-- Photo Details -->
+
+    <style name="PhotoDetailsImage">
+        <item name="android:textSize">@dimen/photo_detail_title_text_size</item>
+        <item name="android:textColor">@color/colorSecondaryText</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+    <!-- Photo Card -->
+
+    <style name="PhotoCardText">
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingStart">@dimen/photo_grid_text_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/photo_grid_text_padding_horizontal</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/photo_grid_card_title_text_size</item>
+    </style>
+
 </resources>

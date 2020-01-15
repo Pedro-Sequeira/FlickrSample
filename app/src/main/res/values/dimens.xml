@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <!-- Photo Grid -->
+    <dimen name="photo_grid_card_elevation">8dp</dimen>
+    <dimen name="photo_grid_card_height">200dp</dimen>
+    <dimen name="photo_grid_card_title_margin_top">10dp</dimen>
+    <dimen name="photo_grid_card_title_text_size">12sp</dimen>
+    <dimen name="photo_grid_photo_margin">10dp</dimen>
+    <dimen name="photo_grid_photo_size">150dp</dimen>
+    <dimen name="photo_grid_text_padding_horizontal">20dp</dimen>
+
+    <!-- Photo Detail -->
+    <dimen name="photo_detail_photo_padding_horizontal">20dp</dimen>
+    <dimen name="photo_detail_photo_padding_top">20dp</dimen>
+    <dimen name="photo_detail_photo_elevation">8dp</dimen>
+    <dimen name="photo_detail_title_margin_bottom">20dp</dimen>
+    <dimen name="photo_detail_title_text_size">20sp</dimen>
+
+    <!-- Error View -->
+    <dimen name="error_view_image_size">100dp</dimen>
+    <dimen name="error_view_image_margin_bottom">20dp</dimen>
+
+    <!-- Toolbar -->
+    <dimen name="toolbar_text_size">16sp</dimen>
+</resources>

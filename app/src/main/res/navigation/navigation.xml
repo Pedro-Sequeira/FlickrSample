@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/photoGridFragment">
 
 
-
+    <fragment
+        android:id="@+id/photoGridFragment"
+        android:name="com.example.android.flickrsample.photoGrid.PhotoGridFragment"
+        android:label="PhotoGridFragment" />
 </navigation>
